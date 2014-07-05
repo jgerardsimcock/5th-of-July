@@ -1,0 +1,8 @@
+{
+    "name": "5th of July",
+    "version": "0.1.0",
+    "description" : "lodash practice",
+    "dependencies" : {
+      "chai" : "1.9.1"
+    }
+}
